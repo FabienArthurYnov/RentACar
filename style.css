@@ -1,0 +1,17 @@
+body {
+    background-color: #1c1f22;
+}
+
+.main_title {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.h1 {
+    font-size: 1.4rem;
+}
+
+@media only screen and (max-width: 770px) {
+    .s-hide {
+        display: None;
+    }
+}
